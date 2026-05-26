@@ -122,7 +122,11 @@ motto: "Wire it. Code it. Power it. ⚡"
 ## 🐍 Contribution Snake
 
 <div align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=80&section=header" width="100%"/>
+	<br>
 	<img src="https://raw.githubusercontent.com/Nurrakha/Nurrakha/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
+	<br>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=80&section=footer" width="100%"/>
 </div>
 
 ---
