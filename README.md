@@ -1,8 +1,5 @@
 <div align="center">
   
-<!-- HEADER BANNER -->
-<img src="github-header-banner.png" alt="Nurrakha Banner" width="100%"/>
-
 <!-- ANIMATED TYPING -->
 <a href="https://git.io/typing-svg">
 	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9A%A1+Hey+there!+I'm+Rakhaaa+%E2%9A%A1;Electrical+Engineering+%7C+IoT+Enthusiast" alt="Typing SVG" />
