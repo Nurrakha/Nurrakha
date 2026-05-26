@@ -151,7 +151,7 @@ motto: "Wire it. Code it. Power it. ⚡"
 <div align="center">
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer&text=⚡%20Thanks%20for%20visiting!%20⚡&fontSize=24&fontColor=0D1117&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer&text=⚡%20Thanks%20for%20visiting!%20⚡&fontSize=24&fontColor=00BFFF&animation=twinkling" width="100%"/>
 
 <p>
 	<img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20⚡-FFD700?style=for-the-badge&labelColor=0D1117" />
