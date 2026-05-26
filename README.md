@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Rakhaaa](github-header-banner.png)
 <!--
 **Nurrakha/Nurrakha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
