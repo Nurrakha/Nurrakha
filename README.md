@@ -11,16 +11,7 @@
 <!-- PROFILE VIEWS & FOLLOWERS -->
 <p>
 	<img src="https://komarev.com/ghpvc/?username=Nurrakha&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-		<img src="https://img.shields.io/github/followers/Nurrakha?label=Followers&style=for-the-badge&color=FFD700&logo=github&logoColor=white" alt="followers" />
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=2&section=header" width="100%"/>
-</p>
-
-## ⚡ About Me
-
-```yaml
-name: Nurrakha
-role: Electrical Engineering Student
 location: Indonesia 🇮🇩
 education: Electrical Engineering
 interests: ["IoT", "Embedded Systems", "Web Development", "Electrical Systems"]
