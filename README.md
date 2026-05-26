@@ -122,11 +122,7 @@ motto: "Wire it. Code it. Power it. ⚡"
 ## 🐍 Contribution Snake
 
 <div align="center">
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nurrakha/Nurrakha/output/github-snake-dark.svg" />
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nurrakha/Nurrakha/output/github-snake.svg" />
-		<img alt="github-snake" src="https://raw.githubusercontent.com/Nurrakha/Nurrakha/output/github-snake-dark.svg" width="100%" />
-	</picture>
+	<img src="https://raw.githubusercontent.com/Nurrakha/Nurrakha/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
 
 ---
