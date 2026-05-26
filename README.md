@@ -5,7 +5,7 @@
 
 <!-- ANIMATED TYPING -->
 <a href="https://git.io/typing-svg">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9A%A1+Hey+there!+I'm+Nurrakha+%E2%9A%A1;Full+Stack+Developer+%7C+Tech+Enthusiast" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9A%A1+Hey+there!+I'm+Nurrakha+%E2%9A%A1;Electrical+Engineering+%7C+IoT+Enthusiast" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE VIEWS & FOLLOWERS -->
@@ -29,15 +29,16 @@
 
 ```yaml
 name: Nurrakha
-role: Full Stack Developer
+role: Electrical Engineering Student
 location: Indonesia 🇮🇩
-education: Computer Science Student
+education: Electrical Engineering
+interests: ["IoT", "Embedded Systems", "Web Development", "Electrical Systems"]
 
-currently_working_on: Building awesome web applications
-currently_learning: ["React", "Next.js", "TypeScript", "Node.js"]
-fun_fact: "I debug with console.log and I'm not ashamed of it ⚡"
+currently_working_on: IoT projects & web-based monitoring systems
+currently_learning: ["IoT", "Laravel", "Embedded C++", "Python"]
+fun_fact: "I combine hardware and software to build smart systems ⚡"
 
-motto: "Code. Create. Conquer. ⚡"
+motto: "Wire it. Code it. Power it. ⚡"
 ```
 
 <p align="center">
@@ -53,25 +54,22 @@ motto: "Code. Create. Conquer. ⚡"
 <!-- LANGUAGES -->
 <h3>⚡ Languages</h3>
 <p>
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD700" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+	<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD700" />
 	<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=FFD700" />
 </p>
 
-<!-- FRAMEWORKS -->
-<h3>⚡ Frameworks & Libraries</h3>
+<!-- FRAMEWORKS & IoT -->
+<h3>⚡ Frameworks & IoT</h3>
 <p>
-	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-	<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-	<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=FFD700" />
-	<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 	<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+	<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+	<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+	<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+	<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
 </p>
 
 <!-- TOOLS -->
@@ -80,11 +78,9 @@ motto: "Code. Create. Conquer. ⚡"
 	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 	<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=FFD700" />
-	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFD700" />
-	<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+	<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+	<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 </div>
