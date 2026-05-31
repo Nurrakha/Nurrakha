@@ -8,7 +8,7 @@
 <!-- PROFILE VIEWS & FOLLOWERS -->
 <p>
 	<img src="https://komarev.com/ghpvc/?username=Nurrakha&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-	<a href="https://github.com/Nurrakha?tab=followers">
+	<a href="https://github.com/Rakhaaaz?tab=followers">
 		<img src="https://img.shields.io/github/followers/Nurrakha?label=Followers&style=for-the-badge&color=FFD700&logo=github&logoColor=white" alt="followers" />
 	</a>
 </p>
